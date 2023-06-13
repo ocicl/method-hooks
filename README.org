@@ -1,0 +1,10 @@
+* method-hooks
+
+mirror of https://gitlab.com/Gnuxie/method-hooks docs:
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Gnuxie/method-hooks.git   |
+| commit  | 4b0ce80  |
+| systems | method-hooks |
+|---------+-------------------------------------------|
+
