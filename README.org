@@ -8,3 +8,4 @@ mirror of https://gitlab.com/Gnuxie/method-hooks docs:
 | systems | method-hooks |
 |---------+-------------------------------------------|
 
+ 
